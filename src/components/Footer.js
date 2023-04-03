@@ -25,6 +25,7 @@ function Footer() {
 				onChange={handleInput}
 				value={inputValue}
 				onBlur={handleBlur}
+				className='lmj-footer-input'
 			/>
 		</footer>
 	)

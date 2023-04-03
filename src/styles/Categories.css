@@ -5,4 +5,26 @@
 
 .lmj-categories-select {
 	margin-right: 15px;
+	border: 1px solid #000;
+	border-radius: 5px;
+	background-color: #fff;
+	width: 10%;
+}
+
+.lmj-btn-reload{
+	border: 1px solid #000;
+	border-radius: 5px;
+	background-color: #fff;
+	color: #000;
+	padding: 5px;
+	outline: none;
+	overflow: hidden;
+	cursor: pointer;
+}
+
+
+.lmj-btn-reload:hover{
+	border: 1px solid #31b572;
+	background-color: #31b572;
+	color: #fff;
 }
